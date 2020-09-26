@@ -114,7 +114,7 @@ bool LinkedList<T>::removeBack()
 
 	if (isEmpty())
 	{
-		return(isRemoved)
+		return(isRemoved);
 	}
 	else
 	{
